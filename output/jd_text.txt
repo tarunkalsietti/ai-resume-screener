@@ -1,90 +1,87 @@
-1/2 
+Kalisetti Tarun 
  
-                                  Kalisetti Tarun 
-Vizianagaram, Andhra Pradesh, India  
- +91 8688779389 
+Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
+ GitH:  https://github.com/tarunkalsietti                                                                              Mobile: 8 6 8 8 7 7 9 3 8 9  
+ 
+SKILLS 
+• Languages: 
+C++, R programming 
+• Additional Skills:   Data Structures and Algorithms (DSA) 
+• Tools/Platforms: 
+MySQL, Tableau, Excel 
+• Soft Skills: 
+Time Management, Work Ethic, Adaptability 
+ 
+ 
+PROJECTS 
+• Sales Performance Dashboard: 
+ 
+ Tools/Technologies: SQL, Tableau, Excel 
+ Developed an interactive Sales Performance dashboard to visualize key sales metrics and trends  
+ 
+ Data extraction: Used SQL to pull together data on monthly sales and product categories.  
+ 
+ Data analysis: Analyzed the data in Excel to calculate growth trends and average order values.  
+ 
+ Dashboard creation: Built an engaging Tableau dashboard 
+ 
+                                                                                                               
+• Car price prediction system: 
+ 
+ 
+ 
+ 
+ 
+ 
+Tools/Technologies: R language, Tableau, Excel  
+ Developed a predictive model using (KNN) K Nearest Neighbors to estimate car prices based on features such as make, model, 
+year, m condition. 
+ • Data Preprocessing: Cleaned and transformed the dataset using R  
+• Model Training: Implemented KNN algorithm to predict car prices  
+• Data Visualization: Created interactive dashboards in Tableau and visualized data trends using Excel 
+ 
+CERTIFICATES 
+ 
+ 
+ 
+ 
+• Responsible & Safe AI Systems – NPTEL  
+                                                                                                Nov, 2024 
+ 
+• Data Structures and Algorithms- Self-Paced (C++) by GFG.                                                          April 2024 
+ 
+• R Programming- Coursera                                                                                                                                  April 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+   ACHIEVEMENTS 
+• Developed a Tic-Tac-Toe Game with Minimax Algorithm: 
+Designed and implemented a Tic-Tac-Toe game using C++, integrating the Minimax algorithm for optimal decision-making 
+ 
+ 
+•  Solved 200+ DSA problems on LeetCode 
+• Participated in online hackthons  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDUCATION 
+Lovely Professional University                                                                                                         Punjab, India 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.8                                 Since August 2022 
+Sri Chaitanya JR college 
+Vizianagaram, AP 
+Intermediate; Percentage: 89% 
+   April 2020 - March 2022 
+Bhashyam                                                                                                                                          Vizianagaram, AP 
+       SSC: percentage: 98% 
+ April 2019-March 2020 
 • 
- tarun.kalisetti2017@gmail.com 
-: http://www.linkedin.com/in/tarunkalisetti      
- https://github.com/tarunkalisetti 
- 
- 
-Objective 
- 
-Aspiring Data Scientist with a strong foundation in data analytics, machine learning, and predictive modeling. Skilled in 
-SQL, Tableau, and R, I thrive on transforming data into actionable insights to solve real-world problems . had  hands-on 
-experience in SQL, Tableau, and R. Looking for opportunities to grow, collaborate on impactful projects, and contribute 
-meaningful insights using data-driven decision-making. 
- 
-Education 
- 
-Lovely Professional University                                                                                                           2022-present                  
-Jalandhar, Punjab 
-Bachelor of Technology in Computer Science and Engineering, CGPA: 6.4 
-Expected Graduation: 2026 
-Relevant Coursework: Data Structures and Algorithms, Predictive Analytics, Database Management Systems, Operating Systems, 
-Software Engineering 
- 
-Sri Chaitanya Junior College                                                                                                                 2020-2022                     
-Andhra Pradesh 
-Senior Secondary School (12th Grade) Percentage: 89% 
-Key Subjects: Physics, Chemistry, Mathematics, Computer Science 
- 
-Bhashyam Public School                                                                                                                        2019-2020 
-Andhra Pradesh 
-Secondary School Certificate (10th Grade), CGPA: 10 
-2016 – 2020 
- 
-Technical Skills 
- 
-Programming Languages:  python, C++, Java, R Programming 
-Databases: SQL, MySQL 
-Technologies & Tools:  GitHub, Excel, Tableau 
-Skills: Data Structures & Algorithms, Machine Learning, Data Preprocessing, Predictive Modelling 
- 
-Projects 
- 
-Sales Performance Dashboard                                                                                                                     Nov,2024 
-Technologies Used: SQL, Tableau, Excel 
 • 
-Developed an interactive sales dashboard to visualize key sales metrics and trends. 
-• 
-Used SQL for data extraction and calculated growth trends & average order values in Excel. 
-• 
-Built an engaging Tableau dashboard to present insights. 
- 
-Car Price Prediction System                                                                                                                          Oct,2024 
-Technologies Used: R, Tableau, Excel 
-• 
-Developed a predictive model using K-Nearest Neighbours (KNN) to estimate car prices. 
-• 
-Performed data preprocessing using R, including data cleaning and transformation. 
-• 
-Built a Tableau dashboard for visualization and used Excel to analyze trends 
- 
-certifications 
- 
-• 
-Mastering Data Structures and Algorithms using C++ – Udemy                        May 2024 
-• 
-Supervised Machine Learning: Regression and Classification -Coursera            April 2024 
-• 
-R Programming – Coursera                                                                                  April 2024 
- 
-Achievements 
- 
-• 
-Completed a GeeksforGeeks DSA Training Program (May 2024 - Aug 2024) focusing on advanced problem-solving 
-techniques. 
-• 
-Developed multiple projects implementing machine learning & data visualization concepts. 
-• 
-Finalist Participant in AWS prompt builder hackathon 
- 
-Targets 
- 
-I aim to secure an internship in Data Science , where I can apply my knowledge of machine learning, SQL, and 
-data analytics to solve real-world problems.  
-To strengthen my problem-solving abilities, I am focused on mastering Data Structures and Algorithms (DSA) 
-through continuous practice and advanced problem-solving techniques. This will help me improve my coding efficiency and 
-prepare for technical interviews in top companies.
+•

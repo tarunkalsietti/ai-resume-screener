@@ -1,7 +1,12 @@
-streamlit
-spacy
-pymupdf
-pandas
-scikit-learn
-sentence-transformers
+# Core dependencies
+streamlit==1.35.0
+spacy==3.7.4
+pymupdf==1.23.22
+pandas==2.2.2
+scikit-learn==1.4.2
+sentence-transformers==2.7.0
+cython==3.0.10
+thinc==8.2.2
+
+# spaCy English model (auto-install)
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
