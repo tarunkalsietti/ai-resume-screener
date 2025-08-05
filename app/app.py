@@ -5,6 +5,7 @@
 # and when  u import from same folder just use .file name(dont forgot the .)
 # if u dont create folder just do import file_name
 import streamlit as st
+st.set_page_config(page_title="Resume Matcher AI", layout="centered")
 import sys
 # Add root to sys.path to allow imports from src/
 
@@ -30,7 +31,7 @@ OUTPUT_DIR = Path("output")
 SKILL_LIST_PATH = Path("data/skills_list.txt")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-st.set_page_config(page_title="Resume Matcher AI", layout="centered")
+
 st.title("📄 AI Resume Matcher")
 
 st.markdown("""
