@@ -1,0 +1,8 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[runner]
+# Tells Streamlit to run the app from the root folder
+cwd = "."
