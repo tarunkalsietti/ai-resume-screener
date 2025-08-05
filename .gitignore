@@ -1,7 +1,7 @@
 __pycache__/
 .DS_Store
 *.pdf
-*.txt
+# *.txt
 *.pyc
 output/
 temp_*.pdf
