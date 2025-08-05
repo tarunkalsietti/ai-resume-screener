@@ -1,6 +1,8 @@
 💼 AI Resume Screener
 [![View App](https://img.shields.io/badge/Live%20App-Streamlit-success?style=for-the-badge&logo=streamlit)](https://ai-resume-screener-tarunkalisetti.streamlit.app/)
-👤 Author: Tarun Kalisetti
+
+
+👨‍💻  Author: Tarun Kalisetti
 📫 LinkedIn • GitHub
 
 An AI-powered application that screens resumes against job descriptions using Natural Language Processing and semantic similarity.
