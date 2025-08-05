@@ -3,7 +3,7 @@
 
 
 👨‍💻  Author: Tarun Kalisetti
-📫 LinkedIn • GitHub
+📫 https://www.linkedin.com/in/tarunkalisetti/ • https://github.com/tarunkalsietti/
 
 An AI-powered application that screens resumes against job descriptions using Natural Language Processing and semantic similarity.
 
