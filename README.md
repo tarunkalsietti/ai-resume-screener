@@ -1,5 +1,13 @@
-*# AI Resume Screener*
+---
 
+ 👤 Author
+
+**Tarun Kalisetti**  
+📫 [LinkedIn](https://www.linkedin.com/in/tarunkalisetti/) | [GitHub](https://github.com/tarunkalsietti)
+
+ 
+ 
+ AI Resume Screener
 
 
 *An AI-powered application that screens resumes against job descriptions using NLP and semantic similarity.*  
