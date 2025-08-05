@@ -6,9 +6,9 @@ import streamlit as st
 import os
 from pathlib import Path
 import pandas as pd
-from utils import load_skills, explain_match, load_text
-from extract_text import extract_text_from_pdf
-from extract_and_compare_skills import extract_skills, load_skill_list
+from src.utils import load_skills, explain_match, load_text
+from src.extract_text import extract_text_from_pdf
+from src.extract_and_compare_skills import extract_skills, load_skill_list
 from embed_similarity_score import compute_similarity, split_jd_sections
 from sentence_transformers import SentenceTransformer
 
