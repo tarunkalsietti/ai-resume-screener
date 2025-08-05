@@ -1,0 +1,70 @@
+Kalisetti Tarun 
+ 
+Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
+ GitH:  https://github.com/tarunkalsietti                                                                              Mobile: + 9 1  8 6 8 8 7 7 9 3 8 9  
+ 
+SKILLS 
+• Languages: 
+C++, R programming 
+• Additional Skills:       Data Structures and Algorithms (DSA) 
+• Tools/Platforms: 
+MySQL, Tableau, Excel, Power BI, Hadoop  
+• Soft Skills:                     Good communication, Time Management, Work Ethic, Adaptability 
+ 
+PROJECTS 
+Sales Performance Dashboard:                                                                                                                                                          Oct,2024                            
+ 
+• Tools/Technologies: SQL, Tableau, Excel 
+• Developed an interactive Sales Performance dashboard to visualize key sales metrics and trends  
+ 
+• Data extraction: Used SQL to pull together data on monthly sales and product categories.  
+ 
+• Data analysis: Analyzed the data in Excel to calculate growth trends and average order values.  
+ 
+• Dashboard creation: Built an engaging Tableau dashboard  
+ 
+                                                                                                               
+Fake News Detection System: 
+                                                                                                                                       Apr 2025 
+• Tools/Technologies: Python, Scikit-learn, stream lit, NLP 
+• Deployed a real-time fake news detector with 99% accuracy using logistic regression and Streamlit, enabling users to validate news 
+articles interactively with 45K+ sample data points 
+• Cleaned and preprocessed 45,000+ news articles with stop word removal, punctuation filtering, and text normalization. 
+• Deployed a fully interactive web app using Streamlit; integrated user input for live predictions. 
+• Saved and reused trained model/vectorizer with joblib; achieved 99% real-time prediction accuracy. 
+ 
+CERTIFICATIONS 
+• Excel Skills for Data Analytics and Visualization                                                                                                       Nov2024 
+ 
+• Supervised Machine Learning: Regression and Classification                                                                              Sep 2024 
+ 
+•  Data Structures and Algorithms- Self-Paced (C++) by GFG.                                                                     Aug 2024                      
+ 
+ 
+ 
+ 
+ 
+ 
+   ACHIEVEMENTS 
+• Developed multiple data visualization dashboards to drive business insights. 
+•  Finalist Participant in AWS prompt builder hackathon  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDUCATION 
+Lovely Professional University                                                                                                         Punjab, India 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5                                 Since August 2022 
+Sri Chaitanya JR college                                                                                                              Andhra Pradesh, India 
+Intermediate; Percentage: 89% 
+   April 2020 - March 2022 
+Bhashyam                                                                                                                                          Andhra Pradesh, India 
+       SSC: percentage: 98% 
+ April 2019-March 2020 
+• 
+• 
+•

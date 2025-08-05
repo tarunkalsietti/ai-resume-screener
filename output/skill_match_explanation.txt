@@ -1,0 +1,13 @@
+ Matched Skills :
+aws
+communication
+excel
+power bi
+python
+sql
+tableau
+
+ Missing JD Skills :
+azure
+gcp
+machine learning

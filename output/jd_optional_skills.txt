@@ -1,0 +1,7 @@
+aws
+azure
+communication
+gcp
+machine learning
+power bi
+tableau

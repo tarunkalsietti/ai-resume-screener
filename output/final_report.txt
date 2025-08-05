@@ -1,0 +1,33 @@
+
+📄 Resume Screening Final Report
+===============================
+
+🧾 Resume: resume1.pdf
+ Job Description: sample_jd.pdf
+
+------------------------------------------------------------
+ Extracted Skills
+------------------------------------------------------------
+• Resume Skills       : aws, c++, communication, excel, hadoop, mysql, nlp, power bi, python, scikit-learn, sql, tableau, time management
+• Must-Have Skills    : excel, python, sql
+• Optional Skills     : aws, azure, communication, gcp, machine learning, power bi, tableau
+
+------------------------------------------------------------
+ Skill Matching
+------------------------------------------------------------
+ Matched Must-Have Skills   : excel, python, sql
+ Missing Must-Have Skills   : None
+
+ Matched Optional Skills    : aws, communication, power bi, tableau
+ Missing Optional Skills    : azure, gcp, machine learning
+
+------------------------------------------------------------
+📊 Scores
+------------------------------------------------------------
+ Must-Have Match Score   : 52.119998931884766%
+ Optional Match Score    : 45.70000076293945%
+ Final Weighted Score    : 50.189998626708984%
+
+ Verdict:  Moderate Match
+
+ Report saved to: output\final_report.txt

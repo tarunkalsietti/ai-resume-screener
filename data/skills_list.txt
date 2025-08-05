@@ -1,0 +1,104 @@
+python
+java
+c++
+c
+javascript
+typescript
+go
+kotlin
+ruby
+rust
+
+
+
+sql
+nosql
+mongodb
+postgresql
+mysql
+sqlite
+redis
+
+
+
+data analysis
+data visualization
+matplotlib
+seaborn
+plotly
+power bi
+excel
+tableau
+
+
+
+
+machine learning
+deep learning
+natural language processing
+nlp
+computer vision
+reinforcement learning
+tensorflow
+pytorch
+scikit-learn
+xgboost
+lightgbm
+
+
+
+
+
+pandas
+numpy
+scipy
+statsmodels
+dask
+spark
+hadoop
+airflow
+etl
+big data
+
+
+
+
+html
+css
+javascript
+react
+node.js
+django
+flask
+express
+angular
+next.js
+
+
+
+
+git
+github
+docker
+kubernetes
+ci/cd
+jenkins
+terraform
+aws
+azure
+gcp
+linux
+bash
+
+
+
+
+communication
+teamwork
+problem solving
+leadership
+critical thinking
+project management
+agile
+scrum
+time management

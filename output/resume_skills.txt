@@ -1,0 +1,13 @@
+aws
+c++
+communication
+excel
+hadoop
+mysql
+nlp
+power bi
+python
+scikit-learn
+sql
+tableau
+time management

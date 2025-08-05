@@ -1,0 +1,32 @@
+ Matched JD Skills:
+aws
+communication
+excel
+power bi
+python
+sql
+tableau
+
+ Missing JD Skills:
+azure
+gcp
+machine learning
+
+ Matched Must-Have Skills:
+excel
+python
+sql
+
+ Missing Must-Have Skills:
+
+
+ Matched Optional Skills:
+aws
+communication
+power bi
+tableau
+
+ Missing Optional Skills:
+azure
+gcp
+machine learning

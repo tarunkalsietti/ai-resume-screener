@@ -1,0 +1,10 @@
+aws
+azure
+communication
+excel
+gcp
+machine learning
+power bi
+python
+sql
+tableau
