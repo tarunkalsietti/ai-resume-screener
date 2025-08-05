@@ -8,7 +8,8 @@ import streamlit as st
 import sys
 import os
 from pathlib import Path
-sys.path.append(str(Path(__file__).resolve().parent.parent / "src"))
+SRC_DIR = Path(__file__).resolve().parent.parent / "src"
+sys.path.append(str(SRC_DIR))
 import pandas as pd
 from src.utils import load_skills, explain_match, load_text
 from src.extract_text import extract_text_from_pdf
