@@ -1,44 +1,54 @@
 Kalisetti Tarun 
  
 Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
- GitH:  https://github.com/tarunkalsietti                                                                              Mobile: + 9 1  8 6 8 8 7 7 9 3 8 9  
+ GitH:  https://github.com/tarunkalsietti                                                                              Mobile: 8 6 8 8 7 7 9 3 8 9  
  
 SKILLS 
 • Languages: 
 C++, R programming 
-• Additional Skills:       Data Structures and Algorithms (DSA) 
+• Additional Skills:   Data Structures and Algorithms (DSA) 
 • Tools/Platforms: 
-MySQL, Tableau, Excel, Power BI, Hadoop  
-• Soft Skills:                     Good communication, Time Management, Work Ethic, Adaptability 
+MySQL, Tableau, Excel 
+• Soft Skills: 
+Time Management, Work Ethic, Adaptability 
+ 
  
 PROJECTS 
-Sales Performance Dashboard:                                                                                                                                                          Oct,2024                            
+• Sales Performance Dashboard: 
  
-• Tools/Technologies: SQL, Tableau, Excel 
-• Developed an interactive Sales Performance dashboard to visualize key sales metrics and trends  
+ Tools/Technologies: SQL, Tableau, Excel 
+ Developed an interactive Sales Performance dashboard to visualize key sales metrics and trends  
  
-• Data extraction: Used SQL to pull together data on monthly sales and product categories.  
+ Data extraction: Used SQL to pull together data on monthly sales and product categories.  
  
-• Data analysis: Analyzed the data in Excel to calculate growth trends and average order values.  
+ Data analysis: Analyzed the data in Excel to calculate growth trends and average order values.  
  
-• Dashboard creation: Built an engaging Tableau dashboard  
+ Dashboard creation: Built an engaging Tableau dashboard 
  
                                                                                                                
-Fake News Detection System: 
-                                                                                                                                       Apr 2025 
-• Tools/Technologies: Python, Scikit-learn, stream lit, NLP 
-• Deployed a real-time fake news detector with 99% accuracy using logistic regression and Streamlit, enabling users to validate news 
-articles interactively with 45K+ sample data points 
-• Cleaned and preprocessed 45,000+ news articles with stop word removal, punctuation filtering, and text normalization. 
-• Deployed a fully interactive web app using Streamlit; integrated user input for live predictions. 
-• Saved and reused trained model/vectorizer with joblib; achieved 99% real-time prediction accuracy. 
+• Car price prediction system: 
  
-CERTIFICATIONS 
-• Excel Skills for Data Analytics and Visualization                                                                                                       Nov2024 
  
-• Supervised Machine Learning: Regression and Classification                                                                              Sep 2024 
  
-•  Data Structures and Algorithms- Self-Paced (C++) by GFG.                                                                     Aug 2024                      
+ 
+ 
+ 
+Tools/Technologies: R language, Tableau, Excel  
+ Developed a predictive model using (KNN) K Nearest Neighbors to estimate car prices based on features such as make, model, 
+year, m condition. 
+ • Data Preprocessing: Cleaned and transformed the dataset using R  
+• Model Training: Implemented KNN algorithm to predict car prices  
+• Data Visualization: Created interactive dashboards in Tableau and visualized data trends using Excel 
+ 
+CERTIFICATES 
+•  Data Structures and Algorithms- Self-Paced (C++) by GFG. 
+  
+ 
+ 
+ 
+ 
+• Responsible & Safe AI Systems – NPTEL  
+ 
  
  
  
@@ -46,8 +56,11 @@ CERTIFICATIONS
  
  
    ACHIEVEMENTS 
-• Developed multiple data visualization dashboards to drive business insights. 
-•  Finalist Participant in AWS prompt builder hackathon  
+• Developed a Tic-Tac-Toe Game with Minimax Algorithm: 
+Designed and implemented a Tic-Tac-Toe game using C++, integrating the Minimax algorithm for optimal decision-making 
+ 
+ 
+•  Solved 200+ DSA problems on LeetCode 
  
  
  
@@ -59,10 +72,11 @@ CERTIFICATIONS
 EDUCATION 
 Lovely Professional University                                                                                                         Punjab, India 
 Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5                                 Since August 2022 
-Sri Chaitanya JR college                                                                                                              Andhra Pradesh, India 
+Sri Chaitanya JR college 
+Vizianagaram, AP 
 Intermediate; Percentage: 89% 
    April 2020 - March 2022 
-Bhashyam                                                                                                                                          Andhra Pradesh, India 
+Bhashyam                                                                                                                                          Vizianagaram, AP 
        SSC: percentage: 98% 
  April 2019-March 2020 
 • 

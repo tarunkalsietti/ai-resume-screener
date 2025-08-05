@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from utils import load_skills, explain_match, load_text
+from .utils import load_skills, explain_match, load_text
 
 
 def load_score_file(path):

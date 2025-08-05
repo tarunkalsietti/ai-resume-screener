@@ -1,29 +1,90 @@
-Job Title: Data Analyst 
+1/2 
  
-Company: TechNova Solutions 
+                                  Kalisetti Tarun 
+Vizianagaram, Andhra Pradesh, India  
+ +91 8688779389 
+• 
+ tarun.kalisetti2017@gmail.com 
+: http://www.linkedin.com/in/tarunkalisetti      
+ https://github.com/tarunkalisetti 
  
-Location: Bangalore, India 
  
-Job Description: 
+Objective 
  
-We are seeking a highly skilled and motivated Data Analyst to join our growing team. The ideal 
-candidate will have strong analytical skills, proficiency in data analysis tools, and the ability to 
-turn data into actionable insights. 
+Aspiring Data Scientist with a strong foundation in data analytics, machine learning, and predictive modeling. Skilled in 
+SQL, Tableau, and R, I thrive on transforming data into actionable insights to solve real-world problems . had  hands-on 
+experience in SQL, Tableau, and R. Looking for opportunities to grow, collaborate on impactful projects, and contribute 
+meaningful insights using data-driven decision-making. 
  
-Key Responsibilities: 
-- Analyze large datasets to identify trends, patterns, and insights. 
-- Create dashboards and reports using Tableau, Power BI, or similar tools. 
-- Work with cross-functional teams to gather business requirements. 
-- Use SQL to query and manage relational databases. 
-- Perform data cleaning and preprocessing using Python or R. 
+Education 
  
-Requirements: 
-- Bachelor’s degree in Computer Science, Statistics, or a related field. 
-- Proficiency in SQL, Excel, and one scripting language (Python preferred). 
-- Experience with data visualization tools (Tableau, Power BI). 
-- Strong communication and problem-solving skills. 
-- Understanding of statistical concepts and hypothesis testing. 
+Lovely Professional University                                                                                                           2022-present                  
+Jalandhar, Punjab 
+Bachelor of Technology in Computer Science and Engineering, CGPA: 6.4 
+Expected Graduation: 2026 
+Relevant Coursework: Data Structures and Algorithms, Predictive Analytics, Database Management Systems, Operating Systems, 
+Software Engineering 
  
-Preferred: 
-- Knowledge of predictive analytics or machine learning. 
-- Familiarity with cloud platforms (AWS, GCP, or Azure).
+Sri Chaitanya Junior College                                                                                                                 2020-2022                     
+Andhra Pradesh 
+Senior Secondary School (12th Grade) Percentage: 89% 
+Key Subjects: Physics, Chemistry, Mathematics, Computer Science 
+ 
+Bhashyam Public School                                                                                                                        2019-2020 
+Andhra Pradesh 
+Secondary School Certificate (10th Grade), CGPA: 10 
+2016 – 2020 
+ 
+Technical Skills 
+ 
+Programming Languages:  python, C++, Java, R Programming 
+Databases: SQL, MySQL 
+Technologies & Tools:  GitHub, Excel, Tableau 
+Skills: Data Structures & Algorithms, Machine Learning, Data Preprocessing, Predictive Modelling 
+ 
+Projects 
+ 
+Sales Performance Dashboard                                                                                                                     Nov,2024 
+Technologies Used: SQL, Tableau, Excel 
+• 
+Developed an interactive sales dashboard to visualize key sales metrics and trends. 
+• 
+Used SQL for data extraction and calculated growth trends & average order values in Excel. 
+• 
+Built an engaging Tableau dashboard to present insights. 
+ 
+Car Price Prediction System                                                                                                                          Oct,2024 
+Technologies Used: R, Tableau, Excel 
+• 
+Developed a predictive model using K-Nearest Neighbours (KNN) to estimate car prices. 
+• 
+Performed data preprocessing using R, including data cleaning and transformation. 
+• 
+Built a Tableau dashboard for visualization and used Excel to analyze trends 
+ 
+certifications 
+ 
+• 
+Mastering Data Structures and Algorithms using C++ – Udemy                        May 2024 
+• 
+Supervised Machine Learning: Regression and Classification -Coursera            April 2024 
+• 
+R Programming – Coursera                                                                                  April 2024 
+ 
+Achievements 
+ 
+• 
+Completed a GeeksforGeeks DSA Training Program (May 2024 - Aug 2024) focusing on advanced problem-solving 
+techniques. 
+• 
+Developed multiple projects implementing machine learning & data visualization concepts. 
+• 
+Finalist Participant in AWS prompt builder hackathon 
+ 
+Targets 
+ 
+I aim to secure an internship in Data Science , where I can apply my knowledge of machine learning, SQL, and 
+data analytics to solve real-world problems.  
+To strengthen my problem-solving abilities, I am focused on mastering Data Structures and Algorithms (DSA) 
+through continuous practice and advanced problem-solving techniques. This will help me improve my coding efficiency and 
+prepare for technical interviews in top companies.

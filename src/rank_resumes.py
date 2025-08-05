@@ -2,10 +2,10 @@
 
 import os
 import pandas as pd
-from extract_text import extract_text_from_pdf
-from utils import load_skills
-from extract_and_compare_skills import extract_skills
-from embed_similarity_score import compute_similarity
+from .extract_text import extract_text_from_pdf
+from .utils import load_skills
+from .extract_and_compare_skills import extract_skills
+from .embed_similarity_score import compute_similarity
 
 
 def summarize_match(matched, missing):

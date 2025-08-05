@@ -6,8 +6,8 @@ import spacy
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from extract_and_compare_skills import extract_skills
-from utils import load_skills, load_text
+from .extract_and_compare_skills import extract_skills
+from .utils import load_skills, load_text
 
 # Load model once globally
 model = SentenceTransformer('all-MiniLM-L6-v2')

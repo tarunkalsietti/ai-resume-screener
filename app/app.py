@@ -1,7 +1,9 @@
 # app.py
 # python -m streamlit run app\app.py
 # app.py
-
+# wen u import files from other folder put that ofldername.file name 
+# and when  u import from same folder just use .file name(dont forgot the .)
+# if u dont create folder just do import file_name
 import streamlit as st
 import os
 from pathlib import Path
@@ -9,7 +11,7 @@ import pandas as pd
 from src.utils import load_skills, explain_match, load_text
 from src.extract_text import extract_text_from_pdf
 from src.extract_and_compare_skills import extract_skills, load_skill_list
-from embed_similarity_score import compute_similarity, split_jd_sections
+from src.embed_similarity_score import compute_similarity, split_jd_sections
 from sentence_transformers import SentenceTransformer
 
 @st.cache_resource

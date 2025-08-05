@@ -4,7 +4,7 @@ import spacy
 import os
 from pathlib import Path
 # Made filenames and paths easier to manage using pathlib.
-from utils import load_text, explain_match   
+from .utils import load_text, explain_match   
 # loading from utils 
 
 # Load spaCy English NLP model

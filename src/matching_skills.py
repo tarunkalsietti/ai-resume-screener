@@ -2,7 +2,7 @@
 
 import os
 
-from utils import load_skills, explain_match
+from .utils import load_skills, explain_match
 
 
 
