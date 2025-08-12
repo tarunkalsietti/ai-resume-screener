@@ -1,7 +1,7 @@
 # _skill_matcher.py
 
 import os
-
+# make sure u remove the . while importing files to run here even if u dont it will sill run in app.py but codes dont run here
 from .utils import load_skills, explain_match
 
 

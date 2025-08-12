@@ -1,84 +1,77 @@
 Kalisetti Tarun 
  
-Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
- GitH:  https://github.com/tarunkalsietti                                                                              Mobile: 8 6 8 8 7 7 9 3 8 9  
+Linkedin:http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
+GitHub:  https://github.com/tarunkalsietti                                                                              Mobile: + 9 1  8 6 8 8 7 7 9 3 8 9  
  
 SKILLS 
-• Languages: 
-C++, R programming 
-• Additional Skills:   Data Structures and Algorithms (DSA) 
-• Tools/Platforms: 
-MySQL, Tableau, Excel 
-• Soft Skills: 
-Time Management, Work Ethic, Adaptability 
+• 
+Languages: 
+                   C++, python 
+• 
+AI & Machine Learning: OpenAI API, LangChain, Transformers (Hugging Face), Prompt Engineering,RAG, 
+• 
+Tools/Platforms: 
+ Tableau,  Git, SQL, Linux (basic), Streamlit,  VS Code,Aws(s3 basics) 
+• 
+Soft Skills:                           Problem Solving, Time Management, Adaptability, Communication 
  
+PROJECTS                                                                                                                                 
  
-PROJECTS 
-• Sales Performance Dashboard: 
+AI  Dev Standup Buddy — LLM-powered developer productivity agent                                    Jul 2025                  
  
- Tools/Technologies: SQL, Tableau, Excel 
- Developed an interactive Sales Performance dashboard to visualize key sales metrics and trends  
+• 
+Tools/Technologies used: Python, FastAPI, OpenAI API, LangChain, GitPython, Prompt Engineering 
  
- Data extraction: Used SQL to pull together data on monthly sales and product categories.  
+• 
+Built an AI-powered Dev Standup Agent that auto-generates daily developer updates (Yesterday / Today / Blockers) by 
+analyzing Git commit messages and task activity, eliminating manual reporting. 
  
- Data analysis: Analyzed the data in Excel to calculate growth trends and average order values.  
+• 
+Used LangChain + OpenAI API to generate natural-language standup summaries from structured/unstructured developer 
+input, simulating real-world team workflows. 
  
- Dashboard creation: Built an engaging Tableau dashboard 
- 
-                                                                                                               
-• Car price prediction system: 
- 
- 
- 
- 
- 
- 
-Tools/Technologies: R language, Tableau, Excel  
- Developed a predictive model using (KNN) K Nearest Neighbors to estimate car prices based on features such as make, model, 
-year, m condition. 
- • Data Preprocessing: Cleaned and transformed the dataset using R  
-• Model Training: Implemented KNN algorithm to predict car prices  
-• Data Visualization: Created interactive dashboards in Tableau and visualized data trends using Excel 
+• 
+Demonstrated use of agent-style workflows, LLM reasoning over developer data, and Git history parsing (via GitPython) for 
+actionable insights. 
+AI Resume Screener | liveDemo • GitHub                                                                                                              Jun 2025 
+• 
+Tools/Technologies: Python, spaCy, Sentence-BERT, Scikit-learn,  Pandas, streamlit,  NLP, Semantic Similarity, OS,  
+PyMuPDF,  Pathlib 
+• 
+Developed an AI-powered tool to evaluate how well a resume matches a job description using skill-based and semantic 
+similarity scoring 
+• 
+Implemented NLP-based skill extraction using spaCy's tokenization, noun chunking, and custom patterns from resume & JD 
+PDFs 
+• 
+Leveraged Sentence-BERT embeddings to compute cosine-similarity scores, then applied a weighted match (70% must-have, 
+30% optional) for ATS-style filtering 
+• 
+Designed a Streamlit interface supporting single-resume analysis and multi-resume ranking, with PDF upload, interactive 
+metrics, and sortable result tables 
+• 
+Generated detailed matching reports with matched/missing skills, scores, and personalized recommendations 
  
 CERTIFICATES 
-•  Data Structures and Algorithms- Self-Paced (C++) by GFG. 
-  
+• 
+Data Structures and Algorithms- Self-Paced (C++) by GFG.                                                                    Feb 2025 
  
+• 
+ Supervised Machine Learning: Regression and Classification (Coursera)                                                      Dec 2024 
  
- 
- 
-• Responsible & Safe AI Systems – NPTEL  
- 
- 
- 
- 
- 
- 
- 
-   ACHIEVEMENTS 
-• Developed a Tic-Tac-Toe Game with Minimax Algorithm: 
-Designed and implemented a Tic-Tac-Toe game using C++, integrating the Minimax algorithm for optimal decision-making 
- 
- 
-•  Solved 200+ DSA problems on LeetCode 
- 
- 
- 
- 
- 
- 
- 
+• 
+Generative AI for Everyone (Coursera)                                                                                                                     Nov 2024 
  
 EDUCATION 
-Lovely Professional University                                                                                                         Punjab, India 
-Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5                                 Since August 2022 
+• 
+Lovely Professional University                                                                                                   Punjab, India 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.7                            Since August 2022 
+• 
 Sri Chaitanya JR college 
-Vizianagaram, AP 
+Andhra Pradesh, India 
 Intermediate; Percentage: 89% 
-   April 2020 - March 2022 
-Bhashyam                                                                                                                                          Vizianagaram, AP 
-       SSC: percentage: 98% 
- April 2019-March 2020 
+   April 2020 - March2022 
 • 
-• 
-•
+Bhashyam                                                                                                                                    Andhra Pradesh, India 
+SSC: percentage: 98% 
+   April 2019-March 2020

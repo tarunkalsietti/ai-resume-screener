@@ -1,7 +1,7 @@
 Kalisetti Tarun 
  
-Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                     Email:tarun.kalisetti2017@gmail.com 
- GitH:  https://github.com/tarunkalsietti                                                                              Mobile: 8 6 8 8 7 7 9 3 8 9  
+Linkedin :http://www.linkedin.com/in/tarunkalisetti                                                Email:tarun.kalisetti2017@gmail.com 
+ github :  https://github.com/tarunkalsietti                                                                          Mobile: 8 6 8 8 7 7 9 3 8 9  
  
 SKILLS 
 • Languages: 
@@ -41,16 +41,14 @@ year, m condition.
 • Data Visualization: Created interactive dashboards in Tableau and visualized data trends using Excel 
  
 CERTIFICATES 
+•  Data Structures and Algorithms- Self-Paced (C++) by GFG. 
+  
  
  
  
  
 • Responsible & Safe AI Systems – NPTEL  
-                                                                                                Nov, 2024 
  
-• Data Structures and Algorithms- Self-Paced (C++) by GFG.                                                          April 2024 
- 
-• R Programming- Coursera                                                                                                                                  April 2024 
  
  
  
@@ -63,7 +61,6 @@ Designed and implemented a Tic-Tac-Toe game using C++, integrating the Minimax a
  
  
 •  Solved 200+ DSA problems on LeetCode 
-• Participated in online hackthons  
  
  
  
@@ -74,7 +71,7 @@ Designed and implemented a Tic-Tac-Toe game using C++, integrating the Minimax a
  
 EDUCATION 
 Lovely Professional University                                                                                                         Punjab, India 
-Bachelor of Technology - Computer Science and Engineering; CGPA: 6.8                                 Since August 2022 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5                                 Since August 2022 
 Sri Chaitanya JR college 
 Vizianagaram, AP 
 Intermediate; Percentage: 89% 
