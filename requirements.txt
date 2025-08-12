@@ -8,6 +8,8 @@ sentence-transformers==2.7.0
 cython==3.0.10
 thinc==8.2.2
 python-dotenv
+groq
+
 
 # spaCy English model (auto-install)
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
